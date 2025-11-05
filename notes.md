@@ -1,7 +1,8 @@
 
 # NOTES
 
-A. Francis Miller 04/11/2025
+A. Francis Miller  
+04/11/2025
 
 This is my .plan file.
 
