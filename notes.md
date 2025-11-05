@@ -8,4 +8,4 @@ This is my .plan file.
 
 It will host notes, observations, learnings, and solutions to problems I've encountered in game development. I'm apt to forget all this stuff if I don't write it down somewhere. Hopefully other people will benefit from it too.
 
-1. xxx
+1. The most convincing solution I've found for FPS movement code is in Miziziziz's excellent [course](https://www.udemy.com/course/how-to-make-a-retro-style-3d-fps-in-the-godot-game-engine/?couponCode=MT251103G2).
